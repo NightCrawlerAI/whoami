@@ -1,8 +1,8 @@
 # Site settings
 title: "Ken Jones - Resume"
 description: "Full Stack Data Scientist"
-baseurl: "" # Left empty because deploying to GitHub Pages
-url: "https://nightcrawlerai.github.io/whoami"
+baseurl: "/whoami" 
+url: "https://nightcrawlerai.github.io"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
@@ -25,13 +25,6 @@ author:
       url: "mailto:kenrjones@berkeley.edu"
 
 # Navigation Links
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "single"
-
 collections:
   pages:
     output: true
@@ -44,6 +37,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-gist
+  - jekyll-paginate
 
 # Exclusions (ignore these files/directories during build)
 exclude:
