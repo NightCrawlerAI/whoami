@@ -33,6 +33,9 @@ defaults:
     values:
       layout: "home"  # Set default layout for pages to 'home'
       author_profile: true  # Enable the author profile globally
+      widgets:
+        - about # to show bio/avatar
+        - links # to show social links
 
 # Collections (for pages with permalinks)
 collections:
