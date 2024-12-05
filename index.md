@@ -35,6 +35,12 @@ Innovative and versatile developer and researcher with experience in data engine
 - Developed dynamic dashboards using Tableau and automated back-office operations, accelerating decision-making for traders.  
 - Created NLP-powered news scraping tools to analyze market trends and provide detailed summarizations for strategic decision-making.  
 
+### **Associate – Global Financial Intelligence Unit** 
+**JPMorgan Chase & Co.** (04/2019 – 03/2021)  
+- Engineered compliance-focused dashboards in **Tableau**, streamlining investigative workflows for financial crime analytics.  
+- Built anomaly detection algorithms in **Python** and **SQL**, safeguarding over $400M in private funds from fraud and illicit activities. 
+- Conducted statistical analyses of transactional datasets to identify trends in money laundering and fraud typologies.  
+
 ### **Capital Markets Analyst**  
 **Ditech Holding Corporation** (06/2017 – 05/2018)  
 - Conducted regression analysis for RMBS transaction optimization, generating insights for over $30M in pooled offerings.  
