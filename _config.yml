@@ -1,39 +1,48 @@
 # Site settings
-title: "Ken Jones Resume"
-description: "Resume of Ken Jones; Showcasing experience across data engineering, AI/ML, financial modeling, and quantitative research."
+title: "Ken Jones - Resume"
+description: "Full Stack Data Scientist"
 baseurl: "" # Left empty because deploying to GitHub Pages
 url: "https://nightcrawlerai.github.io/whoami"
-author: "Ken Jones"
 
 # Theme
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Social Links
-social_links:
-  email: "kenrjones@berkeley.edu"
-  linkedin: "https://linkedin.com/in/kenrjones1"
-  github: "https://github.com/NightCrawlerAI/Shareables"
-
-# Markdown settings
-markdown: kramdown
-kramdown:
-  input: GFM
-highlighter: rouge
+author:
+  name: "Ken Jones"
+  avatar: "/assets/images/Ken profile pic.jpeg" 
+  bio: "Innovative and versatile developer and researcher."
+  location: "Oakland, CA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/NightCrawlerAI"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/kenrjones1"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:kenrjones@berkeley.edu"
 
 # # Navigation Links
-# nav_links:
-#   - title: "About"
-#     url: "/"
-#   - title: "Projects"
-#     url: "/#projects"
-#   - title: "Contact"
-#     url: "/#contact"
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "single"
+
+# collections:
+#   pages:
+#     output: true
+#     permalink: /:path/
 
 # Plugins/Extensions
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclusions (ignore these files/directories during build)
 exclude:

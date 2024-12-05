@@ -5,9 +5,6 @@ title: "Ken Jones - Resume"
 
 # Ken Jones
 
-**Email**: kenrjones@live.com  
-**Phone**: (713) 494-3107  
-**Location**: Oakland, CA  
 **LinkedIn**: [linkedin.com/in/kenrjones1](https://linkedin.com/in/kenrjones1)  
 **GitHub**: [github.com/NightCrawlerAI/Shareables](https://github.com/NightCrawlerAI/Shareables)
 
