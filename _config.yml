@@ -1,6 +1,6 @@
 # Site settings
 title: ""
-description: "Full Stack Data Scientist"
+description: ""
 baseurl: "/whoami" 
 url: "https://nightcrawlerai.github.io"
 author_profile: true  # Enable the author profile globally
@@ -12,7 +12,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 author:
   name: "Ken Jones"
   avatar: "/assets/images/profile.jpg" 
-  bio: "Innovative and versatile developer and researcher."
+  bio: "Full Stack Data Scientist"
   location: "Oakland, CA"
   links:
     - label: "GitHub"
