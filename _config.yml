@@ -10,7 +10,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 # Social Links
 author:
   name: "Ken Jones"
-  avatar: "/assets/images/Ken profile pic.jpeg" 
+  avatar: "/assets/images/profile.jpg" 
   bio: "Innovative and versatile developer and researcher."
   location: "Oakland, CA"
   links:
@@ -24,18 +24,18 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:kenrjones@berkeley.edu"
 
-# # Navigation Links
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       layout: "single"
+# Navigation Links
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
 
-# collections:
-#   pages:
-#     output: true
-#     permalink: /:path/
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 # Plugins/Extensions
 plugins:
@@ -43,6 +43,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Exclusions (ignore these files/directories during build)
 exclude:
