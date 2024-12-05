@@ -1,0 +1,41 @@
+# Site settings
+title: "Ken Jones Resume"
+description: "Resume of Ken Jones; Showcasing experience across data engineering, AI/ML, financial modeling, and quantitative research."
+baseurl: "" # Left empty because deploying to GitHub Pages
+url: "https://nightcrawlerai.github.io/whoami"
+author: "Ken Jones"
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Social Links
+social_links:
+  email: "kenrjones@berkeley.edu"
+  linkedin: "https://linkedin.com/in/kenrjones1"
+  github: "https://github.com/NightCrawlerAI/Shareables"
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+
+# Navigation Links
+nav_links:
+  - title: "About"
+    url: "/"
+  - title: "Projects"
+    url: "/#projects"
+  - title: "Contact"
+    url: "/#contact"
+
+# Plugins/Extensions
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclusions (ignore these files/directories during build)
+exclude:
+  - "README.md"
+  - "KJ Bio.Rmd"
