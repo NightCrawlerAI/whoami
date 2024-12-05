@@ -1,17 +1,14 @@
 ---
 layout: home
 title: "Resume"
+author_profile: true # Enables the bio section on the homepage
 ---
 
-**LinkedIn**: [linkedin.com/in/kenrjones1](https://linkedin.com/in/kenrjones1)  
-**GitHub**: [github.com/NightCrawlerAI/Shareables](https://github.com/NightCrawlerAI/Shareables)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ken%20Jones-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kenrjones1)
+[![GitHub](https://img.shields.io/badge/GitHub-NightCrawlerAI-black?style=flat-square&logo=github)](https://github.com/NightCrawlerAI/Shareables)
 
 ## **Professional Summary**  
 Innovative and versatile developer and researcher with experience in data engineering, machine learning, and developing scalable data solutions. Proven expertise in deploying predictive models, optimizing portfolios, and integrating advanced analytics for financial and energy markets. Passionate about leveraging AI to address complex business and social challenges that drive meaningful innovation through the use of data-driven systems.
-
----
 
 ## **Core Skills**  
 - **Machine Learning & AI:** RNNs, CNNs, Graph Structures, Ensemble Methods, PyTorch, TensorFlow, scikit-learn, XGBoost, NLP  
@@ -20,8 +17,6 @@ Innovative and versatile developer and researcher with experience in data engine
 - **Programming Languages:** Python, R, SQL, Bash, Javascript, HTML/CSS, MATLAB, Java  
 - **Tools & Frameworks:** FastAPI, Flask, Tableau, Swagger APIs, Git, Linux CLI, Jupyter, VS Code, PyCharm, RStudio  
 - **Soft Skills:** Cross-functional Collaboration, Strategic Leadership, Data-Driven Decision Making
-
----
 
 ## **Professional Experience**  
 
@@ -46,8 +41,6 @@ Innovative and versatile developer and researcher with experience in data engine
 - Automated portfolio management processes, leading to significant efficiency gains and resource reallocation.  
 - Trained team members in advanced analytics workflows, fostering a data-first culture within the organization.  
 
----
-
 ## **Projects**  
 
 ### **Energy Price Prediction**  
@@ -58,8 +51,6 @@ Innovative and versatile developer and researcher with experience in data engine
 - Founding developer of an energy trading AI platform focused on NLP and forecasting, leveraging supercomputers to deliver predictive insights, news summarization, and data visualization for gas, power, and oil markets.  
 - Designed APIs and integrated real-time data feeds to enhance forecasting precision and usability for end users while maintaining MLOps best practices.  
 
----
-
 ## **Education**  
 **Master of Information and Data Science** (Expected 05/2026)  
 University of California, Berkeley  
@@ -69,8 +60,6 @@ The University of Texas at San Antonio
 
 **Bachelor of Business Administration in Economics** (05/2017)  
 The University of Texas at San Antonio  
-
----
 
 ## **Certifications**  
 - AWS Certified Cloud Practitioner  

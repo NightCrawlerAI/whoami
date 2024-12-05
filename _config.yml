@@ -3,15 +3,15 @@ title: "Ken Jones"
 description: "Full Stack Data Scientist"
 baseurl: "/whoami" 
 url: "https://nightcrawlerai.github.io"
-author_profile: true
+author_profile: true  # Enable the author profile globally
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Social Links
+# Author Information (for the bio widget)
 author:
   name: "Ken Jones"
-  avatar: "/assets/images/profile.jpg"
+  avatar: "/assets/images/profile.jpg" 
   bio: "Innovative and versatile developer and researcher."
   location: "Oakland, CA"
   links:
@@ -25,7 +25,16 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:kenrjones@berkeley.edu"
 
-# Navigation Links
+# Defaults (apply layouts and settings globally)
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "home"  # Set default layout for pages to 'home'
+      author_profile: true  # Enable the author profile globally
+
+# Collections (for pages with permalinks)
 collections:
   pages:
     output: true
