@@ -20,14 +20,14 @@ kramdown:
   input: GFM
 highlighter: rouge
 
-# Navigation Links
-nav_links:
-  - title: "About"
-    url: "/"
-  - title: "Projects"
-    url: "/#projects"
-  - title: "Contact"
-    url: "/#contact"
+# # Navigation Links
+# nav_links:
+#   - title: "About"
+#     url: "/"
+#   - title: "Projects"
+#     url: "/#projects"
+#   - title: "Contact"
+#     url: "/#contact"
 
 # Plugins/Extensions
 plugins:
