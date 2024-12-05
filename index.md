@@ -37,8 +37,8 @@ Innovative and versatile developer and researcher with experience in data engine
 
 ### **Associate – Global Financial Intelligence Unit** 
 **JPMorgan Chase & Co.** (04/2019 – 03/2021)  
-- Engineered compliance-focused dashboards in **Tableau**, streamlining investigative workflows for financial crime analytics.  
-- Built anomaly detection algorithms in **Python** and **SQL**, safeguarding over $400M in private funds from fraud and illicit activities. 
+- Engineered compliance-focused dashboards in Tableau, streamlining investigative workflows for financial crime analytics.  
+- Built anomaly detection algorithms in Python and SQL, safeguarding over $400M in private funds from fraud and illicit activities. 
 - Conducted statistical analyses of transactional datasets to identify trends in money laundering and fraud typologies.  
 
 ### **Capital Markets Analyst**  
