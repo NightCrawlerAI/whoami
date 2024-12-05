@@ -7,6 +7,9 @@ url: "https://nightcrawlerai.github.io"
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
 
+# Profile Picture
+avatar: "/assets/images/profile.jpg"
+
 # Social Links
 author:
   name: "Ken Jones"
