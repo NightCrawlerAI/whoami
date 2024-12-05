@@ -39,6 +39,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  posts:
+    output: false # Disable posts collection
 
 # Plugins/Extensions
 plugins:
