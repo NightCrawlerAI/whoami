@@ -13,7 +13,7 @@ author:
   name: "Ken Jones"
   avatar: "/assets/images/profile.jpg" 
   bio: "Full Stack Data Scientist"
-  location: "Oakland, CA"
+  location: "San Francisco, CA"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
