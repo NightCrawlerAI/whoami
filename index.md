@@ -15,6 +15,7 @@ Innovative and versatile developer and researcher with experience in data engine
 - **Data Engineering & Cloud Computing:** AWS (EC2/S3), GCP (Pub/Sub, BigQuery), Docker, Kubernetes/Istio, Apache Kafka, Airflow, PostgreSQL, SQL Server, NoSQL (Redis, MongoDB, Neo4j)  
 - **Quantitative Research & Financial Modeling:** Portfolio Optimization, Monte Carlo Simulations, VaR, Risk Analysis, Capital Market Expectations, Asset Allocation, Regression Analysis, Time Series Forecasting, ML-Powered Trading Strategies 
 - **Programming Languages:** Python, R, SQL, Bash, Javascript, HTML/CSS, MATLAB, Java  
+- **Big Data:** Databricks, Apache Hadoop, Apache Spark
 - **Tools & Frameworks:** FastAPI, Flask, Tableau, Swagger APIs, Git, Linux CLI, Jupyter, VS Code, PyCharm, RStudio  
 - **Soft Skills:** Cross-functional Collaboration, Strategic Leadership, Data-Driven Decision Making
 
@@ -26,6 +27,13 @@ Innovative and versatile developer and researcher with experience in data engine
 - Conducted advanced quantitative research on balanced portfolios, asset allocation, and alternative investments for retail clients, focusing on capital market expectations and risk-adjusted returns.  
 - Developed and deployed models for portfolio optimization, alternative investment exposure, and liquidity premium analysis using Python.  
 - Spearheaded innovative research into financial technology applications, including analytical tools for classifying non-traditional assets within portfolios using graph algorithms.  
+
+### **CBRN Specialist (Chemical, Biological, Radiological, and Nuclear)**
+**United States Army National Guard (05/2021 – Present)
+- Leveraged technical expertise to operate and maintain CBRN detection and decontamination systems, ensuring operational safety and mission success.
+- Conducted scientific evaluations of hazardous materials, mitigating risks for both military and civilian personnel in dynamic and high-stakes environments.
+- Developed protocols and trained teams on advanced equipment and procedures, improving readiness for emergency scenarios.
+- Evaluated CBRN threats and optimized hazard detection processes, aligning with mission-critical objectives.
 
 ### **Data Engineer & Quantitative Risk Analyst**  
 **e360 Power** (02/2022 – 02/2024)  
@@ -72,3 +80,7 @@ The University of Texas at San Antonio
 - ODSC Machine Learning Certification  
 - ODSC Deep Learning Certification  
 - Bloomberg Market Concepts Certification  
+
+## **Awards**
+- Army Achievement Medal
+- Army Commanders' Coin of Excellence
