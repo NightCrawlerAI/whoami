@@ -29,7 +29,7 @@ Innovative and versatile developer and researcher with experience in data engine
 - Spearheaded innovative research into financial technology applications, including analytical tools for classifying non-traditional assets within portfolios using graph algorithms.  
 
 ### **CBRN Specialist (Chemical, Biological, Radiological, and Nuclear)**
-**United States Army National Guard (05/2021 – Present)
+**United States Army National Guard** (05/2021 – Present)
 - Leveraged technical expertise to operate and maintain CBRN detection and decontamination systems, ensuring operational safety and mission success.
 - Conducted scientific evaluations of hazardous materials, mitigating risks for both military and civilian personnel in dynamic and high-stakes environments.
 - Developed protocols and trained teams on advanced equipment and procedures, improving readiness for emergency scenarios.
